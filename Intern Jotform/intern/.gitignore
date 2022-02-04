@@ -1,0 +1,12 @@
+.DS_Store
+sftp-config.json
+*.sublime-workspace
+.idea
+.editorconfig
+.vscode/*
+.syncrconf
+node_modules
+syncAll
+*.privateKey
+sftp.json
+.vscode/sftp.json

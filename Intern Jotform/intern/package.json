@@ -1,0 +1,28 @@
+{
+  "name": "web-push",
+  "version": "1.0.0",
+  "description": "web-push notification system",
+  "main": "./web-push/index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jotform/intern.git"
+  },
+  "author": "htaspolat,oavci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jotform/intern/issues"
+  },
+  "homepage": "https://github.com/jotform/intern#readme",
+  "devDependencies": {
+    "gulp": "^ 4.0.1",
+    "gulp-cli": "^2.3.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-sass": "^5.0.0"
+  },
+  "dependencies": {
+    "swiper": "^6.7.5"
+  }
+}
